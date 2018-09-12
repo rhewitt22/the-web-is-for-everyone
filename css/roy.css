@@ -1,0 +1,19 @@
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4 {
+  text-transform: none !important;
+}
+
+.reveal h1.title {
+  font-size: 3rem;
+}
+
+.reveal h2 {
+  font-size: 1.5em;
+}
+
+.reveal img {
+  height: auto;
+  max-width: 100%;
+}
